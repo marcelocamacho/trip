@@ -1,3 +1,4 @@
+//json-server src/server.json -p 3333
 {
   "stock": [
     {
